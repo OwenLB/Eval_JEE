@@ -45,7 +45,7 @@ public class FinderServiceDelegate {
 
 		return "NORMAL FLOW !!! - Actor Name -  " + response + " -  " + new Date();
 	}
-	
+
 	@HystrixCommand(fallbackMethod = "callMovieServiceAndGetData_Fallback")
 	public String callGetMoviesByName(String name) {
 		System.out.println("Getting School details for " + name);

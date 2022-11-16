@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/my-dashboard/my-dashboard.iml" filepath="$PROJECT_DIR$/my-dashboard/my-dashboard.iml" />
       <module fileurl="file://$PROJECT_DIR$/my-finder/my-finder.iml" filepath="$PROJECT_DIR$/my-finder/my-finder.iml" />
       <module fileurl="file://$PROJECT_DIR$/my-movie/my-movie.iml" filepath="$PROJECT_DIR$/my-movie/my-movie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-movie/spring-boot-swagger2.iml" filepath="$PROJECT_DIR$/my-movie/spring-boot-swagger2.iml" />
     </modules>
   </component>
 </project>

@@ -60,9 +60,11 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2"
+    "project.structure.side.proportion": "0.2",
+    "spring.configuration.checksum": "65758000bbd02afff998ea9a2eb47c1e"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -71,8 +73,21 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="my-movie" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="my-movie" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MyMovieApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="spring-boot-swagger2" />
+      <module name="my-movie" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.mymovie.MyMovieApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,6 +103,7 @@
       <option name="presentableId" value="Default" />
       <updated>1668611055083</updated>
       <workItem from="1668611056334" duration="664000" />
+      <workItem from="1668611748899" duration="1552000" />
     </task>
     <servers />
   </component>
